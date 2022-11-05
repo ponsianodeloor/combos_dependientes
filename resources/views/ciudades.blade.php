@@ -11,6 +11,7 @@
 <body>
     <h1>Ciudades</h1>
     @livewire('counter')
+    @livewire('ciudades')
 
     @livewireScripts
 </body>
